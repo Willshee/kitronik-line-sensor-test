@@ -1,0 +1,22 @@
+{
+    "name": "kitronik-line-sensor-test",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "pxt-kitronik-move-motor": "github:kitronikltd/pxt-kitronik-move-motor#v0.2.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
